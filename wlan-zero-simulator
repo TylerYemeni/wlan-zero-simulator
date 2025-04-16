@@ -1,0 +1,3 @@
+mkdir wlan-zero-simulator && cd wlan-zero-simulator
+mkdir modules utils wordlists
+touch main.py requirements.txt README.md
